@@ -7,7 +7,7 @@ class CoffeeCard extends Component {
         return (
             <Card body>
                 <CardTitle>Mocha</CardTitle>
-                <CardText>It's great</CardText>
+                <CardText>It's amazing</CardText>
                 <Button color="primary">Details</Button>
                 <Button color="danger">Delete</Button>
             </Card>
